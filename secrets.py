@@ -1,6 +1,0 @@
-HARPERDB_URL = "harperdbcloud.com"
-
-
-HARPERDB_PASSWORD = ""
-
-HARPERDB_USERNAME = ""
