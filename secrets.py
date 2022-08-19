@@ -1,6 +1,6 @@
-HARPERDB_URL = "https://aliks-aliksandr.harperdbcloud.com"
+HARPERDB_URL = "harperdbcloud.com"
 
 
-HARPERDB_PASSWORD = "index19913008"
+HARPERDB_PASSWORD = ""
 
-HARPERDB_USERNAME = "vangola"
+HARPERDB_USERNAME = ""
